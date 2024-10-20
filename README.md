@@ -18,7 +18,7 @@ python main.py
 Project 2: Tkinter AI Application
 Overview
 A Tkinter GUI using OOP concepts and integrating AI models for tasks like image classification and language translation.
-
+Data visualization
 How to Run
 Clone the repo:
 git clone https://github.com/yourusername/tkinter-ai-oop-app.git
